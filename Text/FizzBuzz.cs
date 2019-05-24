@@ -22,7 +22,7 @@ namespace Basic_Algorithms
      
         static void Main(string[] args)
         {
-                    ### TEST ###
+                   /* ### TEST ### */
             Console.Write("Please insert range:");
             int range = Convert.ToInt32(Console.ReadLine());
             fizzBuzz(range);
